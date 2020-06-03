@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeapp
-        image: cloudiardocker/nodeapp:tagVersion
+        image: yakmandocker/nodeapp:tagVersion
         ports:
         - containerPort: 8080
